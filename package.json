@@ -1,0 +1,20 @@
+{
+  "name": "s6_c2-simple_calculator",
+  "version": "2.0.2",
+  "description": "A simple calculator with Typescript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MID",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "s6_c2-simple_calculator": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
