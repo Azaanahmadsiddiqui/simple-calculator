@@ -1,2 +1,1 @@
-"# simple-calculator" 
-"# simple-calculator" 
+This is cli based simple calculator.
